@@ -6,3 +6,13 @@ This facebook system is meant to carry out five operations/functionalities
    3. Users can chat in groups with other users
    4. Users can make posts and commend on posts
    5. Users can search other users 
+
+The project is developed usint the following tools
+Frontend tools
+1. HTML
+2. CSS
+3. JavaScript
+
+Backend tools
+1. PHP
+2. Bootstrap
